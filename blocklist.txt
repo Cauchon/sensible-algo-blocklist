@@ -3145,7 +3145,6 @@
 0.0.0.0 redirect.tracking202.com
 0.0.0.0 static.tracking202.com
 0.0.0.0 p1.tcr21.tynt.com
-# 0.0.0.0 redirect.viglink.com #[affects disqus.com]
 0.0.0.0 www.w3counter.com
 0.0.0.0 ots.optimize.webtrends.com
 0.0.0.0 b.wishabi.com
@@ -7220,7 +7219,6 @@
 0.0.0.0 adsharenetwork.com
 # [Internap / Gwallet][AS12182]AS14745[72.5.64.0 - 72.5.92.127]
 0.0.0.0 rs.gwallet.com
-0.0.0.0 www.ojrq.net
 # [Internap / Atrinsic][AS14743][72.5.175.0 - 72.5.175.63]
 # [Internap / Adify][AS12182][74.201.118.0 - 74.201.118.255]
 0.0.0.0 feed.afy11.net
@@ -12475,7 +12473,6 @@
 # [Valueclick][AS25751][216.34.207.0 - 216.34.207.255]
 # [ValueClick / Commission Junction[216.34.209.0 - 216.34.209.31]
 0.0.0.0 www.afcyhf.com #[WebBug]
-0.0.0.0 www.anrdoezrs.net
 0.0.0.0 mp.apmebf.com
 0.0.0.0 www.apmebf.com #[Tracking.Cookie]
 0.0.0.0 www.awltovhc.com #[WebBug]
@@ -39298,7 +39295,6 @@
 127.0.0.1	click.kmindex.ru
 127.0.0.1	click.linkstattrack.com
 127.0.0.1	click.linkstorm.net
-127.0.0.1	click.linksynergy.com
 127.0.0.1	click.livedoor.com
 127.0.0.1	click.livejasmin.com
 127.0.0.1	click.loudgames.com
@@ -48289,7 +48285,6 @@
 127.0.0.1	oin.valuead.com
 127.0.0.1	ojbrnmoowoold.review
 127.0.0.1	ojolink.com
-127.0.0.1	ojrq.net
 127.0.0.1	okohp.voluumtrk.com
 127.0.0.1	okpgn.voluumtrk.com
 127.0.0.1	okrg0.voluumtrk.com
@@ -49980,7 +49975,6 @@
 127.0.0.1	redirect.mobpartner.mobi
 127.0.0.1	redirect.searchignite.com
 127.0.0.1	redirect.simba.taobao.com
-127.0.0.1	redirect.viglink.com
 127.0.0.1	redirect.wister.biz
 127.0.0.1	redirect1.vip.store.yahoo.com
 127.0.0.1	redirect2719.ws
@@ -60065,7 +60059,6 @@
 127.0.0.1	www.ohgipscavenging.review
 127.0.0.1	www.ojbrnmoowoold.review
 127.0.0.1	www.ojolink.com
-127.0.0.1	www.ojrq.net
 127.0.0.1	www.olizyr.com
 127.0.0.1	www.omarsys.com
 127.0.0.1	www.omnaling.com
